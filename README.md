@@ -25,3 +25,6 @@ git clone https://github.com/yourusername/biopython-bug4291-repro
 cd biopython-bug4291-repro
 docker-compose build --no-cache
 docker-compose up
+
+...or simply execute run_tests.sh:
+./run_tests.sh
