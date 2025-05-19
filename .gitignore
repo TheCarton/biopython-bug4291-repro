@@ -1,0 +1,9 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Docker/volume artifacts
+*.log
+
+# If you're doing active debugging
+*.swp
